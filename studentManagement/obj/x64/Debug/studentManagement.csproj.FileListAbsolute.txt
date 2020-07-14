@@ -1,0 +1,16 @@
+G:\ctest\studentManagement\studentManagement\bin\x64\Debug\studentManagement.exe.config
+G:\ctest\studentManagement\studentManagement\bin\x64\Debug\studentManagement.exe
+G:\ctest\studentManagement\studentManagement\bin\x64\Debug\studentManagement.pdb
+G:\ctest\studentManagement\studentManagement\bin\x64\Debug\SqliteTest.dll
+G:\ctest\studentManagement\studentManagement\bin\x64\Debug\System.Data.SQLite.dll
+G:\ctest\studentManagement\studentManagement\bin\x64\Debug\System.Data.SQLite.Linq.dll
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.csprojAssemblyReference.cache
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.Login.resources
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.Main.resources
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.Properties.Resources.resources
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.Tianjia.resources
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.csproj.GenerateResource.cache
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.csproj.CoreCompileInputs.cache
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.csproj.CopyComplete
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.exe
+G:\ctest\studentManagement\studentManagement\obj\x64\Debug\studentManagement.pdb
